@@ -1,0 +1,21 @@
+body {
+    background-color: #daccdd;
+  }
+  h2 {
+    color: #ff0095;
+  }
+  p {
+    color: #ff0000;
+  }
+  li{
+    list-style-type: none;
+  }
+  img{
+    width: 350px;
+    height: 270px;
+  }
+    #flowerList,#flowerList2,#flowerList3{
+      display: inline-block;
+      width: 33%;
+      height: 100%;
+  }
